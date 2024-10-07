@@ -1,0 +1,5 @@
+1.INSERT INTO `logowanie`(`id`, `nick`, `haslo`) VALUES ('3','Jeremi','Jer123')
+2.SELECT ROUND(AVG(rokUr), 0) AS Alias FROM `uczestnicy`;
+3.
+4.INSERT INTO `logowanie` (id, nick, haslo) VALUES ('4', 'uczestnik', 'Ucz123&');
+5.

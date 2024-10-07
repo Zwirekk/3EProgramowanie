@@ -1,0 +1,105 @@
+body
+{
+    font-family: Garamond;
+}
+
+#baner
+{
+    background-color: Tomato;
+    color: white;
+    text-align: center;
+    width: 80%;
+    height: 80px;
+    position: absolute; left: 0; 
+}
+
+#blokGlowny
+{
+    width: 80%;
+    height: 600px;
+    float: left;
+    position: absolute;
+    margin-top: 80px;
+}
+
+#blokBoczny
+{
+    position: absolute; right: 0;   
+    
+    background-color: Coral;
+    width: 20%;
+    height: 880px;
+
+}
+
+#stopka
+{
+    background-color: Tomato;
+    color: white;
+    text-align: center;
+    position: absolute; bottom: 0;
+}
+
+img
+{
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#chat
+{
+    border-width: 1px;
+    border-color: Tomato;
+    border-style: solid;
+    margin: 15px;
+    height: 470px;
+    overflow: scroll;
+}
+
+.tekst
+{
+    border-radius: 5px;
+    width: 90%;
+    height: 70px;
+    margin: 2px;
+    padding: 3px;
+}
+
+#zdjecieJolanta
+{
+    float:left;
+}
+
+#zdjecieKrzysiek
+{
+    float:right;
+}
+#chatJolanta
+{
+    background-color: #EEE;
+    text-align: left;
+    float: left;
+}
+
+#chatKrzysiek
+{
+    background-color: #CCC;
+    text-align: right;
+    float:right;
+}
+
+button
+{
+    background-color: Tomato;
+    border-width: 1px;
+    border-style: solid;
+    border-color: DarkRed;
+    padding: 5px;
+    font-weight: 700;
+}
+
+#poleTekstowe
+{
+    width: 500px;
+}
